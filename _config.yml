@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Masih Eskandar
+title: Homepage
 email: eskandar.m@northeastern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for Masih Eskandar. Currently a PhD student advised by Prof. Jennifer Dy at Northeastern University.
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Masih Eskandar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD Student at Northeastern University."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
